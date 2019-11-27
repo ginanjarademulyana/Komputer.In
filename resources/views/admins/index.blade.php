@@ -3,8 +3,7 @@
 @include('/admins/partials/sidebar')
 
 @section ('container')
-      <div class="container-fluid">
-
+<div class="container-fluid">
         <!-- Breadcrumbs-->
         <ol class="breadcrumb">
           <li class="breadcrumb-item">
